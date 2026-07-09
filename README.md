@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elvishrdz&theme=radical&hide_border=true&ring=a855f7&fire=a855f7" alt="GitHub Streak" />
-</p>
-
 <div align="center">
   <h1>Hi there, I'm Elvis 👋</h1>
   <a href="https://git.io/typing-svg">
